@@ -19,15 +19,11 @@ Déployer une infrastructure web hautement disponible sur Microsoft Azure en uti
 
 ## Architecture
 
-Internet
-    │
-    ▼
-Application Gateway
-    │
-    ▼
-Backend Pool
- ├── VM1 (IIS)
- └── VM2 (IIS)
+## Architecture
+
+Architecture en cours de documentation.
+
+Un schéma détaillé sera ajouté après validation du lab Azure Application Gateway.
 
 ---
 
