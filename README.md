@@ -20,12 +20,14 @@ Déployer une infrastructure web hautement disponible sur Microsoft Azure en uti
 ## Architecture
 
 Internet
-↓
+    │
+    ▼
 Application Gateway
-↓
+    │
+    ▼
 Backend Pool
-├── VM1 (IIS)
-└── VM2 (IIS)
+ ├── VM1 (IIS)
+ └── VM2 (IIS)
 
 ---
 
